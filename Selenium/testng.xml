@@ -2,9 +2,9 @@
 <suite name="TestSuite" verbose="1">
     <test name="RoundTripMakeMyTripTest">
         <classes>
-            <!-- <class name="read.excel.ReadExcel"/> -->
+            <class name="read.excel.ReadExcel"/>
             <class name="trip.make.RoundTripMakeMyTrip"/>
-            <!-- <class name="testrunners.TestRunner"/> -->
+            <class name="testrunners.TestRunner"/>
         </classes>
     </test>
 </suite>
